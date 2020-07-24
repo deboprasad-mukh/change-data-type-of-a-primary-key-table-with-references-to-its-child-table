@@ -1,4 +1,4 @@
-# change-data-type-of-a-primary-key-table-with-references-to-its-child-table
+# change-data-type-of-a-primary-key-table-with-references-to-its-child-table using oracle
 there are few steps that you have to follow
 I CHANGED DATATYPE OF A PRIMARY KEY NUMBER TO VARCHAR !!
 *\drop all foreign key constraints
